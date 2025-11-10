@@ -1,8 +1,7 @@
 # Projeto Olhos Abertos
 
 1.
-"Olhos Abertos" is an app developed with the purpose of combating harassment against women on the public transportation on Recife metropolitan region.
-é um aplicativo desenvolvido com o propósito de combaater o assédio contra mulheres nos transportes públicos da Região Metropolitana do Recife.
+"Olhos Abertos" é um aplicativo desenvolvido com o propósito de combaater o assédio contra mulheres nos transportes públicos da Região Metropolitana do Recife.
 
 Sabemos que, diariamente, mulheres são expostas a situações de vulnerabilidade e assédio, especialmente em ambientes públicos e transportes coletivos - espaços que muitas vezes fazem parte de suas rotinas
 
