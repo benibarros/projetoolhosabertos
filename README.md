@@ -52,3 +52,5 @@ For the development of the project, we used a set of tools that facilitated both
 4. After that, they must fill out the complaint form, including the media file, date and time, company, bus line and number. At this point, the user can also choose to provide a written report
 5. Once the complaint has been filed, the user will be able to track its status through the app
 6. The user will also have access to the support channels available in the app.
+
+   https://ibb.co/93NV7H2j
