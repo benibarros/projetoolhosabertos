@@ -17,7 +17,7 @@
 
 We know that, every day, women are exposed to situations of vulnerability and harassment, especially in public spaces and collective transport — environments that often form part of their daily routines.
 
-With this in mind, **Open Eyes** emerges as a tool for support, safety, and quick reporting, allowing victims and witnesses to record incidents in a practical and secure way.
+With this in mind, **Olhos abertos** emerges as a tool for support, safety, and quick reporting, allowing victims and witnesses to record incidents in a practical and secure way.
 
 ---
 
